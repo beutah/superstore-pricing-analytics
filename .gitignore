@@ -17,3 +17,11 @@ env/
 __pycache__/
 *.pyc
 .env
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.env
